@@ -6,14 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="contacts-init" />
-        <module name="contacts" />
+        <module name="reservations" />
+        <module name="reservations-init" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="contacts" target="11" />
+    <bytecodeTargetLevel target="11">
       <module name="contacts-full" target="11" />
-      <module name="contacts-init" target="11" />
+      <module name="reservations" target="11" />
+      <module name="reservations-init" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/contacts/contacts.iml" filepath="$PROJECT_DIR$/contacts/contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AMT-Labo01.iml" filepath="$PROJECT_DIR$/AMT-Labo01.iml" />
       <module fileurl="file://$PROJECT_DIR$/contacts-full.iml" filepath="$PROJECT_DIR$/contacts-full.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contacts-init/contacts-init.iml" filepath="$PROJECT_DIR$/contacts-init/contacts-init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservations/reservations.iml" filepath="$PROJECT_DIR$/reservations/reservations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservations-init/reservations-init.iml" filepath="$PROJECT_DIR$/reservations-init/reservations-init.iml" />
     </modules>
   </component>
 </project>
